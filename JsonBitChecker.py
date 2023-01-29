@@ -1,6 +1,5 @@
 import json
 import os
-import struct
 
 folder_path = "C:\\" #path to folder with jsons
 key_path = input("Enter the JSON path for 'Key': ").strip()
